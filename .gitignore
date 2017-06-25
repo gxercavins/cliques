@@ -5,12 +5,6 @@
 *.pdf
 *.txt
 
-# images
-static/images/*
-
-# except stock photo
-!static/images/blend.jpg
-
 # Created by https://www.gitignore.io/api/pycharm
 
 ### PyCharm ###
